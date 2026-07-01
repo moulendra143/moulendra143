@@ -1,5 +1,18 @@
-# 💫 About Me:
-Computer Science student aspiring to become a Software Engineer with interests in Java Full Stack Development, AI, LLMs, and Machine Learning. Passionate about building scalable applications, continuously learning new technologies, and contributing to impactful software products. Currently seeking internship and entry-level Software Engineer opportunities.
+## 💫 About Me:
+
+🎓 B.Tech Computer Science Student
+
+💻 Passionate Java Full Stack Developer with a strong interest in Software Engineering
+
+🤖 AI & LLM Enthusiast exploring Generative AI, Machine Learning, and Intelligent Applications
+
+🌱 Skilled in Java, Spring Boot, React, MySQL, Git, and REST APIs
+
+🚀 Currently building real-world Full Stack and AI-powered projects while strengthening my Data Structures & Algorithms skills
+
+📚 Continuously learning System Design, Microservices, Cloud, and Modern Software Development
+
+🤝 Open to Software Engineering, Java Full Stack, and AI internship opportunities
 
 
 ## 🌐 Socials:
